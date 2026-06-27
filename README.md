@@ -110,7 +110,7 @@ npm run build
 
 ## 🌐 Live Demo
 
-[shubhamsoni.vercel.app](https://shubhamsoni.vercel.app) *(update after deployment)*
+[my-portfolio-m473.onrender.com](https://my-portfolio-m473.onrender.com)
 
 ---
 

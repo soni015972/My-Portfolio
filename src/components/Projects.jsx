@@ -21,7 +21,7 @@ const PROJECTS = [
     stack: ['React.js', 'Bootstrap 5', 'Framer Motion', 'React Icons', 'Vite'],
     features: ['Responsive Design', 'Sticky Navbar', 'Animated Hero', 'Skills Showcase', 'Education Timeline', 'Contact Section', 'Dark Theme'],
     github: 'https://github.com/soni015972',
-    demo: null,
+    demo: 'https://my-portfolio-m473.onrender.com',
   },
 ]
 
